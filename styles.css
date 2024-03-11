@@ -1,0 +1,108 @@
+html, body {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #FFFFFF;
+}
+
+.H {
+  position: relative;
+}
+
+.IMG_9478 {
+  display: flex;
+  align-items: center;
+}
+
+.IMG_9478 img {
+  width: 483px;
+  height: 73px;
+  top: -877px;
+  left: -632px;
+}
+
+.IMG_9478 h3 {
+  text-decoration: none;
+  color: black;
+  font-weight: 300;
+  margin-top: 15px;
+  margin-left: auto;
+  text-shadow: 3px 3px 6px rgb(167, 164, 165);
+}
+
+.saudi-flag {
+  width: 486px;
+  height: 81px;
+  top: 250px;
+  left: 50px;
+  background-blend-mode: darken;
+  color: rgba(22, 100, 56, 1);
+  font-family: 'Tajawal', sans-serif;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 79.2px;
+  text-align: center;
+  position: absolute; 
+}
+
+.saudi-flag1 {
+  width: 486px;
+  height: 81px;
+  top: 330px;
+  left: 50px;
+  background-blend-mode: darken;
+  color: rgba(129, 118, 15, 1);
+  font-family: 'Tajawal', sans-serif;
+  font-weight: 700;
+  font-size: 61px;
+  line-height: 73.2px;
+  text-align: center;
+  position: absolute;
+}
+
+.IMG_947 img {
+  width: 400px;
+  height: 650px;
+  float: right;
+  margin-bottom: 80px;
+  margin-right: 50px;
+}
+
+.footer {
+  width: 100%;
+  height: 90px;
+  bottom: 0;
+  background-color: rgba(173, 196, 183, 0.5);
+  position: fixed;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.footer img {
+  width: 29px;
+  height: 31.55px;
+  right: 30px;
+  border-radius: 50%;
+  margin-left: 65px;
+}
+.footer a {
+  width: 162px;
+  height: 24px;
+  top: 903px;
+  left: 77px;
+  background-blend-mode: darken;
+  text-decoration: none;
+  font-family: "Font", sans-serif;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24.32px;
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+  background-color: transparent;
+}
